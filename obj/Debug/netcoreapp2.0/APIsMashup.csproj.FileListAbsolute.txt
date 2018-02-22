@@ -1,0 +1,10 @@
+/Users/paulofrancis/Development/APIsMashup/bin/Debug/netcoreapp2.0/APIsMashup.deps.json
+/Users/paulofrancis/Development/APIsMashup/bin/Debug/netcoreapp2.0/APIsMashup.runtimeconfig.json
+/Users/paulofrancis/Development/APIsMashup/bin/Debug/netcoreapp2.0/APIsMashup.runtimeconfig.dev.json
+/Users/paulofrancis/Development/APIsMashup/bin/Debug/netcoreapp2.0/APIsMashup.dll
+/Users/paulofrancis/Development/APIsMashup/bin/Debug/netcoreapp2.0/APIsMashup.pdb
+/Users/paulofrancis/Development/APIsMashup/obj/Debug/netcoreapp2.0/APIsMashup.csproj.CoreCompileInputs.cache
+/Users/paulofrancis/Development/APIsMashup/obj/Debug/netcoreapp2.0/APIsMashup.AssemblyInfoInputs.cache
+/Users/paulofrancis/Development/APIsMashup/obj/Debug/netcoreapp2.0/APIsMashup.AssemblyInfo.cs
+/Users/paulofrancis/Development/APIsMashup/obj/Debug/netcoreapp2.0/APIsMashup.dll
+/Users/paulofrancis/Development/APIsMashup/obj/Debug/netcoreapp2.0/APIsMashup.pdb
